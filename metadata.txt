@@ -1,0 +1,9 @@
+name = PanelsStyler
+version = 1.0.0
+author = Borislav Mateev
+maintainer = Borislav Mateev
+license = CC BY-NC 4.0
+url = https://github.com/bmateev/PanelsStyler
+repository = https://github.com/bmateev/PanelsStyler
+description = Customize font and size of FreeCAD panels. Non-commercial use only.
+icon = Resources/icons/PanelsStyler.svg
